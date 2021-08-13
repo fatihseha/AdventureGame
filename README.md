@@ -1,3 +1,3 @@
 # AdventureGame
-It is an console-based adventure game wrote with C#.
+It is an adventure game and it is written in C#.
 It includes essentials of OOP.
